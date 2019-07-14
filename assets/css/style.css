@@ -1,6 +1,8 @@
 header {
     border-bottom: 5px solid #ccc;
     background-color: white;
+    display:block;
+    width:100%;
 }
 
 h1 {
@@ -143,12 +145,11 @@ button {
 
 footer {
     box-sizing: border-box;
-    display: block;
     width: 100%;
     background-color: #777777;
     height: 60px;
-    position: absolute;
-    bottom: 0;
+    margin: 40px 0;
+    
 }
 
 #catP {
